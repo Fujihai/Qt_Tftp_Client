@@ -39,7 +39,7 @@ Feature
 Effect
 ---------------------
 
-从Tftp文件服务器上下载文件(choose the file saving path and download from tftp server)：
+从Tftp文件服务器上下载文件(choose the file's saving path and download from tftp server)：
 ![Get操作](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/Images/get%E6%93%8D%E4%BD%9C.gif)
  
 上传文件到Tftp文件服务器(upload any local file to tftp server)：
