@@ -18,8 +18,10 @@ Features
 Effect
 ---------------------
 
-choose the file's saving path and download from tftp server：
+Choose the file's saving path and download from tftp server：
 ![Get](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/Images/get%E6%93%8D%E4%BD%9C.gif)
 
-upload any local file to tftp server：
+Upload any local file to tftp server：
 ![Put](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/Images/put%E6%93%8D%E4%BD%9C.gif)
+
+[中文说明请查看](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/README-zh.md)
