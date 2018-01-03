@@ -2,7 +2,7 @@
 
 Introduction
 -----------------------
-Tftp Client based on Linux Qt.
+Tftp Client based on Linux Qt. [中文版](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/README-zh.md)
 
 Features
 -----------------------
@@ -24,4 +24,3 @@ Choose the file's saving path and download from tftp server：
 Upload any local file to tftp server：
 ![Put](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/Images/put%E6%93%8D%E4%BD%9C.gif)
 
-[中文说明请查看](https://github.com/liufushihai/Qt_Tftp_Client/blob/master/README-zh.md)
